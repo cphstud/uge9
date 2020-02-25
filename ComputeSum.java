@@ -30,7 +30,7 @@ public class ComputeSum {
     System.out.println("Indast heltal:");
     int userInt = myScan.nextInt();
     int sum = computeSum(userInt);
-    System.out.print("udskriv tværsummen");
+    System.out.printf("udskriv tværsummen");
 
   }
   public static int computeSum(int number){
