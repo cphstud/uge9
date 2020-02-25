@@ -1,17 +1,21 @@
 # Opgaver til uge 9 - WORK IN PROGRESS
 ### Rækkefølgen 
 
-1) OrderFlowers
-
-4) ComputeSum
-
+1) Oops
 2) ModEven
+3) GetLetter
+4) DrawOneLeg
+5) ComputeSum
 
-2) ModPrime
+---
 
-3) MakeNewSpeach
+6) DrawBox
+7) MakeNewName
+8) ModPrime
+9) MakeNewSpeach
+10) OrderFlowers
 
-5) DrawBox
+
 
 
 
