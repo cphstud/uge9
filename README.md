@@ -1,4 +1,4 @@
-# Opgaver til uge 9 - WORK IN PROGRESS
+# Opgaver til uge 9 
 ### Rækkefølgen 
 
 1) Oops
