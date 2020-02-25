@@ -39,7 +39,6 @@ public class ComputeSum {
     // TODO
     // brug et while-loop kombineret med modulus og heltalsdivision
     // til at bryde tallet ned i dets 10-tals-komponenter
-    // test: 
     return sum;
   }
 }
